@@ -1,8 +1,8 @@
 # lamaAI-Clone
-Full stack Aiebnb Clone
+Full stack Aiebnb Clone with AI application for user travel planning.
 
 This project taught me how to utilize Next.js. 
-Supabase DataBase and Stroage, Prisma ORM, Kinde Authontication, Next.js Routes etc
+Supabase DataBase and Stroage, Prisma ORM, Kinde Authontication, Next.js Routes, firebase, Google API, react.js
 
 
 
@@ -14,6 +14,8 @@ Resources used:
 - Prisma: https://prisma.io
 - Supabase: https://supabase.com
 - React-date-range: https://www.npmjs.com/package/react-date-range
+- Google api:https://ai.google.dev/
+- Firebase:https://firebase.google.com/
 
 Features: 
 
