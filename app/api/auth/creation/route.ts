@@ -36,6 +36,8 @@ export async function GET() {
   // return NextResponse.redirect("http://localhost:3000");
   
   //for production
-   return NextResponse.redirect("https://airbnb-clone-eight-cyan.vercel.app");
+  //  return NextResponse.redirect("https://airbnb-clone-eight-cyan.vercel.app");
+
+  return NextResponse.redirect("https://airbnb-clone-69gj.vercel.app");
 
 }
