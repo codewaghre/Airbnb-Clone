@@ -1,11 +1,11 @@
-🚀 Build an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma, Tailwind and Shadcn/UI! Learn step-by-step and elevate your development skills. 
+# lamaAI-Clone
+Full stack Aiebnb Clone with AI application for user travel planning.
+- Project-Link: https://airbnb-clone-69gj-3nnbix1ow-codewaghres-projects.vercel.app/
 
-- 🚀 Kinde Auth: https://dub.sh/xeU8r3v
+This project taught me how to utilize Next.js. 
+Supabase DataBase and Stroage, Prisma ORM, Kinde Authontication, Next.js Routes, firebase, Google API, react.js
 
 
-- 👨🏻‍💻 GitHub Repository: https://www.janmarshal.com/courses/create-an-airbnb-clone-with-next-js-14-kinde-supabase-prisma-and-tailwind
-- 🌍 My Website: https://www.janmarshal.com
-- 📧 Business ONLY: jan@alenix.de 
 
 Resources used:
 - Next.js: https://nextjs.org
@@ -15,6 +15,8 @@ Resources used:
 - Prisma: https://prisma.io
 - Supabase: https://supabase.com
 - React-date-range: https://www.npmjs.com/package/react-date-range
+- Google api:https://ai.google.dev/
+- Firebase:https://firebase.google.com/
 
 Features: 
 
@@ -46,7 +48,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, Collect All .env File Key then 
+run the development server:
+
 
 ```bash
 npm run dev
