@@ -4,6 +4,7 @@ import DesktopLogo from "../../public/airbnb-desktop.png";
 import MobileLogo from "../../public/airbnb-mobile.webp";
 import { UserNav } from "./UserNav";
 import { SearchModalCompnent } from "./SearchComponent";
+import { Button } from "@/components/ui/button";
 
 export function Navbar() {
   return (
