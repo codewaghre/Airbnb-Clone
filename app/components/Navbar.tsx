@@ -25,7 +25,6 @@ export function Navbar() {
         </Link>
 
         <SearchModalCompnent />
-
         
         <Link href='https://traveler-chi.vercel.app/' target="_blank">
           <Button>
