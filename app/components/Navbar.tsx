@@ -25,6 +25,13 @@ export function Navbar() {
 
         <SearchModalCompnent />
 
+        <Link href='https://traveler-chi.vercel.app/' target="_blank">
+          <Button>
+            Plan Your Trip With AI
+          </Button>
+        </Link>
+
+
         <UserNav />
       </div>
     </nav>
